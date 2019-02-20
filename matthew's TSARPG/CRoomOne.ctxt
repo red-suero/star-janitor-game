@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CRoomOne
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CRoomOne\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=player\ prev\ gridX\ gridY
+comment1.target=CRoomOne(CombatPlayer,\ Room,\ int,\ int)
+comment2.params=
+comment2.target=void\ addDoors()
+numComments=3

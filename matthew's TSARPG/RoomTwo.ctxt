@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RoomTwo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=player\ gridX\ gridY\ s
+comment1.target=RoomTwo(Player,\ int,\ int,\ Side)
+comment2.params=gridX\ gridY\ s
+comment2.target=Room\ nextRoom(int,\ int,\ Side)
+comment3.params=gridX\ gridY\ s
+comment3.target=Room\ prevRoom(int,\ int,\ Side)
+comment4.params=gridX\ gridY
+comment4.target=CombatRoom\ entrance(int,\ int)
+comment5.params=gridX\ gridY
+comment5.target=void\ addPlayer(int,\ int)
+comment6.params=
+comment6.target=void\ addDoors()
+numComments=7
